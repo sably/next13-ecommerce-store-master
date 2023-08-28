@@ -5,8 +5,6 @@ For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
 
 ## MAKE SURE YOU HAVE [ADMIN](https://github.com/sably/next13-ecommerce-admin-master) SETUP FIRST!
 
-[VIDEO TUTORIAL](https://youtu.be/5miHyP6lExg)
-
 Key Features:
 
 - We will be using Shadcn UI for the Admin!
@@ -34,7 +32,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-ecommerce-store.git
+git clone https://github.com/sably/next13-ecommerce-store-master.git
 ```
 
 ### Install packages
