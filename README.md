@@ -2,6 +2,7 @@
 
 For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
 
+Demo: 👉 [ecommerce-store](https://next13-ecommerce-store-master.vercel.app/)
 
 ## MAKE SURE YOU HAVE [ADMIN](https://github.com/sably/next13-ecommerce-admin-master) SETUP FIRST!
 
